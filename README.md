@@ -23,8 +23,8 @@ Applied state-of-the-art image preprocessing and feature extraction methods to e
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Handwritten Recognizer.git
-    cd Handwritten Recognizer
+    git clone https://github.com/yourusername/-Handwritten-Recognizer.git
+    cd -Handwritten-Recognizer
     ```
 2. Install the required packages:
     ```sh
